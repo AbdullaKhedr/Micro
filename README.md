@@ -1,2 +1,3 @@
-# Micro
-Micro: Learning Social Network mobile application
+# Micro: Learning Social Network
+# Jetpack Compose
+

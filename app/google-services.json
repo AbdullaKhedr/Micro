@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078362502604",
+    "project_id": "micro-57a7c",
+    "storage_bucket": "micro-57a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078362502604:android:275787e90e8e7719785969",
+        "android_client_info": {
+          "package_name": "com.mobileapp.micro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078362502604-6e0r05d3cefdgt1edkhlqcu7f77ko6jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7MNmiunXGwAL4ZLdBTx6qIU2nM-kgFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078362502604-6e0r05d3cefdgt1edkhlqcu7f77ko6jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
